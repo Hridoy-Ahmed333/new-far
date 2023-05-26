@@ -13,3 +13,6 @@
 12. Add Bootstrap UI framework
 13. Install "npm install react-bootstrap bootstrap --force" in frontend
 14. Install "npm install react-router-bootstrap" in front end
+15. Added New folder called components in fronend under src
+16. Added product.js in frontend under Src and under Component
+17. Added Rating.js in frontend under Src and under Component

@@ -25,6 +25,13 @@ main {
   flex: 1;
 }
 
+.btn-primary {
+  background-color: rgb(230, 66, 230);
+  color: palegreen;
+}
+.rating span {
+  color: goldenrod;
+}
 .products {
   display: flex;
   flex-wrap: wrap;
