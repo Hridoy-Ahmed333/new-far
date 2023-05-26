@@ -16,3 +16,4 @@
 15. Added New folder called components in fronend under src
 16. Added product.js in frontend under Src and under Component
 17. Added Rating.js in frontend under Src and under Component
+18. Install npm install react-helmet-async --force in front end

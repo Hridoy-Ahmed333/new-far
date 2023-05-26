@@ -10,7 +10,7 @@ function App() {
       <div className="d-flex flex-column site-container">
         <header>
           <Navbar bg="info" variant="info">
-            <Container>
+            <Container className="mt-3">
               <LinkContainer to="/">
                 <Navbar.Brand>The Comfort Zone</Navbar.Brand>
               </LinkContainer>

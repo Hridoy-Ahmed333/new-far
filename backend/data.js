@@ -19,7 +19,7 @@ const data = {
       category: "Chairs",
       image: "/images/p2.jpg",
       price: 5000,
-      countInStock: 12,
+      countInStock: 0,
       brand: "np",
       rating: 4.5,
       numReviews: 5,
