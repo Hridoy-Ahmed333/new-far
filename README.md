@@ -7,3 +7,5 @@
    7.run npm install express in terminal
 7. install npm install nodemon --save-dev
 8. add ""start": "nodemon server.js"," in "package.json" inside "scripts"
+9. Got front end package.json and add ""proxy": "http://localhost:5000"," after name
+10. Install npm install axios in frontend
