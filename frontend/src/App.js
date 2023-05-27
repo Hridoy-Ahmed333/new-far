@@ -12,7 +12,11 @@ function App() {
           <Navbar bg="info" variant="info">
             <Container className="mt-3">
               <LinkContainer to="/">
-                <Navbar.Brand>The Comfort Zone</Navbar.Brand>
+                <Navbar.Brand>
+                  <strong>
+                    <h2>The Comfort Zone</h2>
+                  </strong>
+                </Navbar.Brand>
               </LinkContainer>
             </Container>
           </Navbar>
